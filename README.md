@@ -1,97 +1,88 @@
 <div align="center">
 
-# Md Mahmudul Hasan
-### Security Engineer · Red Teamer · Bug Bounty Researcher
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Engineer+%26+Red+Teamer;Yogosha+Strike+Force+Member;500%2B+Vulnerabilities+Disclosed;Bug+Bounty+%7C+Pentesting+%7C+Research" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Engineer+%40+EIC+Limited;Yogosha+Strike+Force+Red+Teamer;500%2B+Vulnerabilities+Disclosed;Building+Tools+for+the+Security+Community)](https://git.io/typing-svg)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmudul--hasan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-816a471a4)
-[![Medium](https://img.shields.io/badge/Medium-@mahmudul24x7-000000?style=flat-square&logo=medium)](https://medium.com/@mahmudul24x7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=flat-square&logo=firefox)](https://mahmudul0x1.github.io)
-[![Email](https://img.shields.io/badge/Email-mahmudul24x7@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mahmudul24x7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmudul--hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-816a471a4)
+[![Medium](https://img.shields.io/badge/Medium-mahmudul24x7-black?style=flat-square&logo=medium)](https://medium.com/@mahmudul24x7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox)](https://mahmudul0x1.github.io)
+[![Email](https://img.shields.io/badge/Email-mahmudul24x7@gmail.com-red?style=flat-square&logo=gmail)](mailto:mahmudul24x7@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahmudul0x1&color=brightgreen&style=flat-square)](https://github.com/mahmudul0x1)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Security engineer with 6+ years of hands-on experience in web, mobile, API, and infrastructure security. Currently leading offensive security assessments at **EIC Limited** and operating as a member of the **Yogosha Strike Force** — an invitation-only red team community based in Paris, France.
+Security Engineer with **6+ years** of hands-on experience in web, mobile, API, and infrastructure security. Currently leading offensive security assessments at **EIC Limited** and operating as a member of the **Yogosha Strike Force** — an invitation-only red team community based in Paris.
 
-I don't just find vulnerabilities — I communicate the risk clearly and make sure fixes actually happen.
-
-- 🔭 Currently working on **Web Application Security using Modern AI** (M.Sc. research)
-- 🛡️ Member of **Yogosha Strike Force** — private bug bounty programs globally
-- 🏆 **Kaspersky National Cyber Security Challenge 2019 — Champion**
-- 📝 Writing security research on [Medium](https://medium.com/@mahmudul24x7)
-- 📍 Based in **Dhaka, Bangladesh**
+- 🔭 Currently working on **WebSecure360** — a full-stack web security assessment platform
+- 🌱 M.Sc. IT at Jahangirnagar University — Thesis: *"Web Application Security Using Modern AI"*
+- 🏆 **500+ vulnerabilities** disclosed across **70+ enterprises**
+- 🌍 Based in **Dhaka, Bangladesh**
 
 ---
 
-## What I Do
+## 🛠 Tools & Technologies
 
-```
-Vulnerability Assessment & Penetration Testing
-Web · Mobile (Android/iOS) · API · Network · Cloud · Server
-
-Live Engagements: Banks · Healthcare · Airlines · ISPs · Fintech
-Compliance: PCI DSS · Security Hardening · Risk Remediation
-
-Bug Bounty: Yogosha Strike Force (Invitation-Only)
-Disclosed: 500+ vulnerabilities across 70+ enterprises
-```
-
----
-
-## Open Source Tools
-
-| Tool | Description |
-|------|-------------|
-| [🔬 DroidRecon](https://github.com/mahmudul0x1/droidrecon) | Android Mobile Security Assessment Framework — static analysis, live credential validation, attack surface mapping |
-| [🌐 WebSecure360](https://github.com/mahmudul0x1/web) | Automated web reconnaissance & vulnerability assessment tool |
-| 🤖 k9droid | Android APK static analyzer — extracts URIs, endpoints & hardcoded secrets |
-| 🔍 DORK.OPS | Google Dork intelligence tool — 130+ categorized dork queries for OSINT & recon |
-
----
-
-## Certifications
-
-| Certification | Issuer |
+| Category | Tools |
 |---|---|
-| Red Hat Certified Engineer (RHCE) | Red Hat |
-| Red Hat Certified System Administrator (RHCSA) | Red Hat |
-| Advanced Digital Forensics Techniques | Belkasoft |
-| Google Cybersecurity Certificate | Google |
+| **Pentesting** | Burp Suite, Nmap, Metasploit, Nuclei, FFUF |
+| **Recon** | Subfinder, Amass, Shodan, theHarvester |
+| **Languages** | Python, Bash, JavaScript, PHP |
+| **Platforms** | Linux, Android, Web, API, Cloud |
+| **Frameworks** | Flask, Django, React |
 
 ---
 
-## Hall of Fame
+## 🚀 Open Source Projects
 
-Acknowledged by **30+ organizations** for responsible security disclosures:
+### ⬡ [WebSecure360](https://github.com/mahmudul0x1/websecure360)
+Full-stack web security assessment platform — 39 scan modules, REST API, PDF reports, Stripe billing, admin panel. Built with Flask + SQLAlchemy.
 
-**Microsoft** · **UNICEF** · **QNAP** · Neo4j · Foxit Software · Zerocopter · Eufy · Reolink · Vanila.io · Duda.co · Wondercise · Aurigasec · Yolt · Mycast · *and more*
+### 🤖 [DroidRecon](https://github.com/mahmudul0x1/droidrecon)
+Android APK static analysis tool — 45+ secret patterns, manifest parser, Smali auditor, SARIF export, Shannon entropy filtering.
 
 ---
 
-## Tech Stack
+## 🏆 Certifications
 
-```
-Offensive:   Burp Suite · Nmap · sqlmap · Metasploit · Wireshark
-             BloodHound · ffuf · Feroxbuster · Evil-WinRM · CrackMapExec
-             LinPEAS/WinPEAS · GTFOBins · Chisel · Hashcat · CyberChef
+- 🎖 **RHCE + RHCSA** — Red Hat Certified Engineer & System Administrator (ID: 220-171-276)
+- 🔐 **Belkasoft Digital Forensics** Certification
+- 🌐 **Google Cybersecurity** Certificate
 
-Forensics:   Autopsy · Volatility · Belkasoft · OSINT Frameworks
+---
 
-Infra:       Linux · Windows Server · Red Hat Ansible
-             FTP · SMTP · NFS · SAMBA · Service Hardening
-```
+## 🏛 Hall of Fame
+
+Acknowledged by: **Microsoft · UNICEF · QNAP · Neo4j · Foxit Software** and 25+ others
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmudul0x1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul0x1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41)
+
+</div>
+
+---
+
+## 🕐 Local Time
+
+<div align="center">
+
+![Time](https://img.shields.io/badge/🕐%20Local%20Time%20(Dhaka%2C%20Bangladesh)-UTC%2B6-00ff41?style=for-the-badge)
+
+</div>
 
 ---
 
 <div align="center">
-
-*"Security isn't a product, it's a process — and I stay in the process."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mahmudul0x1&color=00ff41&style=flat-square&label=Profile+Views)
-
+<i>"Find vulnerabilities before attackers do."</i>
 </div>
