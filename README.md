@@ -49,7 +49,6 @@ Disclosed: 500+ vulnerabilities across 70+ enterprises
 |------|-------------|
 | [🔬 DroidRecon](https://github.com/mahmudul0x1/droidrecon) | Android Mobile Security Assessment Framework — static analysis, live credential validation, attack surface mapping |
 | [🌐 WebSecure360](https://github.com/mahmudul0x1/websecure360) | Automated web reconnaissance & vulnerability assessment tool |
-| 🤖 k9droid | Android APK static analyzer — extracts URIs, endpoints & hardcoded secrets |
 | 🔍 DORK.OPS | Google Dork intelligence tool — 130+ categorized dork queries for OSINT & recon |
 
 ---
