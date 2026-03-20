@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Engineer+%40+EIC+Limited;Yogosha+Strike+Force+Red+Teamer;500%2B+Vulnerabilities+Disclosed;Building+Tools+for+the+Security+Community)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahmudul--hasan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahmudul-hasan-816a471a4)
-[![Medium](https://img.shields.io/badge/Medium-@mahmudul24x7-000000?style=flat-square&logo=medium)](https://medium.com/@mahmudul24x7)
+[![Medium](https://img.shields.io/badge/Medium-@0xmahmudul-000000?style=flat-square&logo=medium)](https://0xmahmudul.medium.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF41?style=flat-square&logo=firefox)](https://mahmudul0x1.github.io)
 [![Email](https://img.shields.io/badge/Email-mahmudul24x7@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:mahmudul24x7@gmail.com)
 
@@ -23,7 +23,7 @@ I don't just find vulnerabilities — I communicate the risk clearly and make su
 - 🔭 Currently working on **Web Application Security using Modern AI** (M.Sc. research)
 - 🛡️ Member of **Yogosha Strike Force** — private bug bounty programs globally
 - 🏆 **Kaspersky National Cyber Security Challenge 2019 — Champion**
-- 📝 Writing security research on [Medium](https://medium.com/@mahmudul24x7)
+- 📝 Writing security research on [Medium](https://0xmahmudul.medium.com/)
 - 📍 Based in **Dhaka, Bangladesh**
 
 ---
